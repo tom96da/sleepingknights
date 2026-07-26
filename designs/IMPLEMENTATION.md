@@ -250,7 +250,7 @@ Phase 0では基本的な組み込み関数のみ提供します。Phase 3以降
 ```
 src/program.slk:5:10: error: undefined variable 'x'
   | print(x)
-  |        ^
+  |       ^
 ```
 
 - ファイル名、行番号、列番号を記録
